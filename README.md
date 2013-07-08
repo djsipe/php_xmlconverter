@@ -1,8 +1,8 @@
 PHP XML Converter
 =================
 
-This is a port of Lalit Patel's(http://www.lalit.org/about/) libraries for converting SimpleXML documents to 
-PHP arrays and conversely converting arrays back to SimpleXML.  
+This is a port of Lalit Patel's(http://www.lalit.org/about/) libraries for converting DOMDocument XML documents to 
+PHP arrays and conversely converting arrays back to DOMDocument objects.  
 
 
 *TODO:* Update this documentation.  For now, see Lalit's docs at:
